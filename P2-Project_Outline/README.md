@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An application to allow a film enthusiast to record and track movies they are interested in seeing or owning, view upcoming releases, and be alerted when a title they have intereset in is releasing soon. 
 ### Features
-Include Features here
+User Login - 
+Search - 
+Add to Watchlist -
+Delete from Watchlist -
+View Film Info - 
 ### Technologies
-Include Technologies here
+Java
+Springboot
+Hibernate
+MySQL
+Thymeleaf
+Public API
 ### What I'll Have to Learn
-Include what you will need to learn here
+How, or the best way, for Java/Springboot to work with the API (TMDb.org)
 ### Project Tracker
 Link to your Trello board here
