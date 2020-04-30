@@ -8,10 +8,10 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
- 
+ [Kevinicus37](https://github.com/Kevinicus37)
 ### LinkedIn
 Provide a link to your LinkedIn account here.
-
+[LinkedIn](https://www.linkedin.com/in/kevin-childs-76aa84101/)
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
